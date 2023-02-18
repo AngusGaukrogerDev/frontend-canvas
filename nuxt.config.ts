@@ -1,4 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
+
 export default defineNuxtConfig({
     modules: [
         '@nuxtjs/tailwindcss'
@@ -9,7 +11,7 @@ export default defineNuxtConfig({
     exposeConfig: false,
     injectPosition: 0,
     viewer: true,
-    }
+    },
       
     // vite: {
     //     server: {
