@@ -9,9 +9,12 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.4.1",
+    "@types/three": "^0.149.0",
     "nuxt": "^3.2.2"
   },
   "dependencies": {
-    "sass": "^1.58.3"
+    "sass": "^1.58.3",
+    "three": "^0.149.0",
+    "vue-threejs": "^0.2.0-alpha.1"
   }
 }

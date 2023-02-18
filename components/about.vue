@@ -1,7 +1,9 @@
 <template>
+        <!-- <Rotatingthing /> -->
+
   <div id="about" class="h-screen bg-nearlyblack text-light-text flex flex-row justify-evenly items-center">
     <div class="flex flex-col text-start w-96">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui asperiores, sapiente atque animi exercitationem dolores at, inventore deleniti quos iste voluptas quaerat odio illum autem repudiandae sint optio? In, quibusdam.
+      <img src="https://dummyimage.com/720x480/" alt="">
     </div>
     <div class="flex flex-col text-start w-96 gap-3">
         <h2 class="text-3xl font-bold">Track Every Moment</h2>
@@ -11,6 +13,8 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+
+</script>
 
 <style lang="scss" scoped></style>

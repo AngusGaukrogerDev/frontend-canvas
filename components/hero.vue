@@ -1,6 +1,6 @@
 <template>
-  <div class="h-screen bg__image__setup  text-light-text bg-fixed">
-    <div class="h-screen flex flex-col justify-center items-center text-center gap-3 drop-shadow-lg">
+  <div class="h-screen flex flex-col justify-center bg__image__setup  text-light-text bg-fixed">
+    <div class=" flex flex-col justify-center items-center text-center gap-3 drop-shadow-lg">
       <h1 class="font-bold text-7xl" data-aos="fade-left">ChronoFlow</h1>
       <h2 class="font-bold text-4xl">Optimise <span class="text-starblue">Your</span>  Team's <span class="text-starblue">Workflow</span> </h2>
       <h3 class="font-semibold text-2xl">Scheduling Simplified</h3>

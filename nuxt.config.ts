@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     injectPosition: 0,
     viewer: true,
     },
-      
+
     // vite: {
     //     server: {
     //       watch: {

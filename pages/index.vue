@@ -1,7 +1,8 @@
 <template>
     <Hero />
     <About />
-    
+    <Pricing />
+    <Contact />
 </template>
 
 <script setup>
