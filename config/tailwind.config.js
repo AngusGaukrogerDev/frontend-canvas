@@ -1,7 +1,8 @@
-export default {
-    theme: {
-      extend: {
-        colors: {
+// import defaultTheme from 'tailwindcss/defaultTheme'
+module.exports =  {
+  theme: {
+    extend: {
+      colors: {
           'nearlyblack': '#060504',
           'space-grey': '#4A5859',
           'off-blue': '#93B7BE',
